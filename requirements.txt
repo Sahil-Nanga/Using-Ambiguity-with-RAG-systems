@@ -1,0 +1,6 @@
+sentence-transformers
+faiss-cpu
+ollama
+nltk
+spacy
+datasets
